@@ -5,7 +5,7 @@ Requires at least: Android 7.0, or iOS 11.0
 Tested up to: Android 10.0
 License: Commercial. For personal use only. Not to give away or resell.
 
-A prototype handheld mobile augmented reality application to raise awareness ofphysical hazards in people's respective surroundings with augmented reality for the metaverse.
+A mobile augmented reality application to raise awareness of physical hazards with augmented reality.
 
 == Description ==
 

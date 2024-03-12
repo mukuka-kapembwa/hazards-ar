@@ -1,6 +1,6 @@
 === Hazards AR ===
 Contributors: Mukuka Kapembwa
-Tags: augmented reality, audio, awareness, physical hazards, metaverse, mobile,Unity, Vuforia, GPS, Hazards AR
+Tags: augmented reality, audio, awareness, physical hazards, metaverse, mobile, Unity, Vuforia, GPS, Hazards AR
 Requires at least: Android 7.0, or iOS 11.0
 Tested up to: Android 10.0
 License: Commercial. For personal use only. Not to give away or resell.
